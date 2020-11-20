@@ -5,6 +5,9 @@ setup(
     version='0.1',
     packages=['kivymd_akivymd_sylvia_dynamic', 'kivymd_akivymd_sylvia_dynamic.uix',
               'kivymd_akivymd_sylvia_dynamic.tools'],
+    package_data={
+        "kivymd_akivymd_sylvia_dynamic": ["icont/*.ttf", "icont/*.fontd"]
+    },
     url='https://github.com/kengoon/KivyMD-AKivymd-Sylvia-Dynamic',
     license='MIT',
     author='Akubue Kenechukwu',
