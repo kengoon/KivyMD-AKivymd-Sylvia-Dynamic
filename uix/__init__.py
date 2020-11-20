@@ -1,4 +1,4 @@
-from uix.iconfonts import register
+from tools.iconfonts import register
 
 register('fontello', 'assets/fontello.ttf', 'assets/fontello.fontd')
 register("icomoon", "assets/icomoon.ttf", "assets/icomoon.fontd")
