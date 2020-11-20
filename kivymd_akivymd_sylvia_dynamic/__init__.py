@@ -1,4 +1,4 @@
-from tools.iconfonts import register
+from kivymd_akivymd_sylvia_dynamic.tools.iconfonts import register
 
 register('fontello', 'assets/fontello.ttf', 'assets/fontello.fontd')
 register("icomoon", "assets/icomoon.ttf", "assets/icomoon.fontd")

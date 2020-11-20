@@ -10,7 +10,7 @@ from kivymd.uix.label import MDLabel
 
 __all__ = ('M_AKBottomNavigation')
 
-from uix.m_mdbuttons import M_MDIconButton
+from kivymd_akivymd_sylvia_dynamic.uix.m_mdbuttons import M_MDIconButton
 
 Builder.load_string(
     """
