@@ -1,3 +1,0 @@
-kivy>=1.10.1
-kivymd>=0.104.1
-akivymd
