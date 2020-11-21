@@ -1,5 +1,5 @@
 from kivymd_akivymd_sylvia_dynamic.tools.iconfonts import register
 
-register('fontello', 'assets/fontello.ttf', 'assets/fontello.fontd')
-register("icomoon", "assets/icomoon.ttf", "assets/icomoon.fontd")
-register("icomoon2", "assets/icomoon2.ttf", "assets/icomoon2.fontd")
+register('fontello', 'icont/fontello.ttf', 'icont/fontello.fontd')
+register("icomoon", "icont/icomoon.ttf", "icont/icomoon.fontd")
+register("icomoon2", "icont/icomoon2.ttf", "icont/icomoon2.fontd")
