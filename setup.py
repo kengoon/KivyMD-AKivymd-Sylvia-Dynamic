@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='KivyMD-AKivymd-Sylvia-Dynamic',
-    version='0.1',
+    version='0.1.1',
     packages=['kivymd_akivymd_sylvia_dynamic', 'kivymd_akivymd_sylvia_dynamic.uix',
               'kivymd_akivymd_sylvia_dynamic.tools'],
     package_data={
